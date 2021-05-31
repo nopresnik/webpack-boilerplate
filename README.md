@@ -1,6 +1,6 @@
 # webpack-boilerplate
 
-Boilerplate to quickly create a HTML/SCSS/JS project with Webpack
+A super thin skeleton boilerplate to quickly create a HTML/SCSS/JS project with Webpack.
 
 Includes:
   - Babel
